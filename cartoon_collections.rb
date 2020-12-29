@@ -15,5 +15,4 @@ def list_dwarves(array)
   
   array.each_with_index { |ele, idx| puts ele, idx }
   
-  end
 end
